@@ -16,7 +16,7 @@ summary: This my very first project in my programming career.I do not have any p
 <img class="ui medium right floated rounded image" src="../images/Sketching Game.PNG">
 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can how the project works at this link: [EZ Sketch](https://www.youtube.com/watch?v=frmWZb9YpKE).
 
 
 
