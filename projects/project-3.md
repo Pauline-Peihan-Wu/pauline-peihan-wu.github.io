@@ -16,6 +16,6 @@ summary: My first complex video created within a group in ICS 111 class.
 
 <img class="ui image" src="{{ site.baseurl }}/images/Tower Defense Project ICS 111.PNG">
 
+This is the final project of my ICS 111 class. 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+//You can how the project works at this link: [EZ Sketch](https://www.youtube.com/watch?v=frmWZb9YpKE).
