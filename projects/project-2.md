@@ -14,7 +14,7 @@ labels:
 summary: The Second project I created in ICS 111 class. First simple video game made by myself.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Mario Game.PNG">
+<img class="ui image" src="{{ site.baseurl }}/images/Mario Game-header.PNG">
  
  
 Here is a link of the game setting: [Mario vs. Fire Bro](https://www.youtube.com/watch?v=nWL-09HFPfs).
