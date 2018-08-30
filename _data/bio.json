@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Pauline Wu",
+    "label": "College Student",
+    "picture": "https://Pauline-Peihan-Wu.github.io/images/molly.png",
+    "email": "peihanwu@hawaii.edu",
+    "phone": "808-392-6982",
+    "website": "https://Pauline-Peihan-Wu.github.io",
+    "summary": "I am a student who major in BS of Computer Science in the University of Hawaii. I will graduate in 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Pauline-Peihan-Wu",
+        "url": "http://github.com/Pauline-Peihan-Wu"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Pauline Wu",
+        "url": "http://linkedin.com/in/pauline-wu-610a94120"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "ice-skating",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "basketball",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "go to movies",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "virtual reality",
       "keywords": [
       ]
     },
