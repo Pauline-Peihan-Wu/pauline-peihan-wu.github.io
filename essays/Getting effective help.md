@@ -4,7 +4,7 @@ type: essay
 title: Getting effective help
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
-labels: Getting effective help
+labels: 
   - Javascript
   - ICS 314
   - Smart Question
