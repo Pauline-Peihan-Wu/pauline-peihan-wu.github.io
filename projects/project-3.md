@@ -24,4 +24,6 @@ After we have an idea about what game we were making, we divded the work for the
 
 Our professor looked over all the different project we submitted. During the last lecture, he announced the top three project from his opinion. And my group got the first place. We got a price because of it. It was a good experience.
 
+Here is the link to a video of this game: [Tower Defense](https://youtu.be/fdkGsH0faVI).
+
 More information about the code of this project will coming soon.
