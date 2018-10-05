@@ -14,6 +14,8 @@ As we go deeper into the software engineer filed, we started to learn more about
 
 ## Semantic UI
 
+<img class="ui medium right floated rounded image" src="../images/Semantic UI Logo.png">
+
 Learning how to create a website or recreate a home page of a website is like try to climb over an obstcale course. It is a long road of
 learning just like when encounter an obstcale course, there will possibly be some obstcales that you have never see before and take practices in order for you to climb over it. I feel that learning how to develop a website is the same. Except, it is was not too bad when 
 we just started to learn about the HTML and CSS. It is like there is a coach next to each of the intro level of obstcales. He will teach you the skills and technique you needs to use to overcome each intro level obstacles. 
@@ -21,6 +23,8 @@ we just started to learn about the HTML and CSS. It is like there is a coach nex
 However, as we started with the Semantic UI, a framework that will make the website look better than only the basic. You need to start to figure out how to climb over the harder obsctacles on your own and by practices and experience. There will be no "Coach" to guide you. But you will overcome it after several practice. 
 
 ## My Experience
+
+<img class="ui medium right floated rounded image" src="../images/Obstacle.jpg">
 
 HTML and CSS are brand new to me. I've heard about them but never had a chance to learn until now. It was not too bad with the basic web design. And I am happy that I have finished my first in class WOD last week. I cannot remember the time but it's a standard time. This week is about the Semantic UI. It does not seem too hard when I watch the videos online. But when I started to do the practice WOD, I've feel the difficulty of it for someone who never recreate a website. 
 
