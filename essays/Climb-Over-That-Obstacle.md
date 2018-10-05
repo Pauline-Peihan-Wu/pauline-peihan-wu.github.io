@@ -14,4 +14,6 @@ As we go deeper into the software engineer filed, we started to learn more about
 
 ## Semantic UI
 
+Learning how to create a website or recreate a home page of a website is like try to climb over an obstcale course. It is a long road of
+learning just like when encounter an obstcale course, there will possibly be some obsrcale that you have never see before and 
 
