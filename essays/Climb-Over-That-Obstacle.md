@@ -24,7 +24,7 @@ However, as we started with the Semantic UI, a framework that will make the webs
 
 ## My Experience
 
-<img class="ui medium right floated rounded image" src="../images/Obstacle.jpg">
+<img class="ui medium fluid image" src="../images/Obstacle.jpg">
 
 HTML and CSS are brand new to me. I've heard about them but never had a chance to learn until now. It was not too bad with the basic web design. And I am happy that I have finished my first in class WOD last week. I cannot remember the time but it's a standard time. This week is about the Semantic UI. It does not seem too hard when I watch the videos online. But when I started to do the practice WOD, I've feel the difficulty of it for someone who never recreate a website. 
 
