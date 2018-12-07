@@ -14,7 +14,7 @@ labels:
 summary: My first complex video game created within a group in ICS 111 class.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Tower Defense Project ICS 111.PNG">
+<img class="ui image" src="../images/Tower Defense Project ICS 111.PNG">
 
 This is the final project of my ICS 111 class. It was a project that we have to work in groups to make it. There so many different ideas about the project. After some discussion, my group decided to make a Tower Defense game. I was confuse about this game in the beginning because I never see this kind of game before. 
 
