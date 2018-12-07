@@ -11,7 +11,7 @@ labels:
   - Java 
   - EZ Graphic
   - Path Finding
-summary: My first complex video created within a group in ICS 111 class.
+summary: My first complex video game created within a group in ICS 111 class.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Tower Defense Project ICS 111.PNG">
