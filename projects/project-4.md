@@ -20,7 +20,7 @@ Gather is a web application my group created for the ICS 314 Final Project. It w
 ## Gather Links:
 - You can see the app here: [Gather Web App](http://gather.meteorapp.com/#/)
 - [Devpost Video](https://devpost.com/software/johnson-family-waste-audit-app)
-- Source [code] (https://github.com/HACC2018/The-Johnson-Family)
+- [code](https://github.com/HACC2018/The-Johnson-Family)
 
 ## My Contribution
 
