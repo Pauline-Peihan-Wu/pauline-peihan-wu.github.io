@@ -15,6 +15,8 @@ labels:
 summary: Final project for ICS 314 class. My first Web App that I ever created.
 ---
 
+<img img class="ui image" src="../images/GatherLogo.png">
+
 
 Gather is a web application my group created for the ICS 314 Final Project. It was my first time develop a web application. 
 
