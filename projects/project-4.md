@@ -15,14 +15,11 @@ labels:
 summary: Final project for ICS 314 class. My first Web App that I ever created.
 ---
 
-<img img class="ui image" src="../images/GatherLogo.png">
-
-
 Gather is a web application my group created for the ICS 314 Final Project. It was my first time develop a web application. 
 
 ## Overview
 
-<img img class="ui image" src="../images/GatherLogo.png">
+<img img class="ui image" src="/images/GatherLogo.png">
 
 The Department of Sustainability, or DoS, has a great process for identifying and tracking suspected contributors in waste management practices. Through waste audits, community members can contribute to the cause and provide valuable data that can be analyzed to draw important conclusions and provide a basis to incite change at the legislative level. However, once the waste audit is done, the data must be input manually by DoS personnel. In addition, the database access and storage is limited to the local level and not organized in an easily manipulable structure. This makes it difficult to visualize data to emphasize important issues and conclusions because it must be done manually through much analysis.
 
@@ -30,17 +27,17 @@ Our solution is a two-pronged approach involving a web app and a smart bin. Our 
 
 In order to realize our solution, we are implementing a database in a series of collections through MongoDB. The web app will use the JavaScript framework Meteor with Semantic UI React, simplifying the process of designing and deploying a clean, intuitive app. The accompanying smart bin will be implemented using proximity and load cell sensors connected to a NodeMCU WiFi Development Board that’s programmed to push data to our database using the MQTT protocol.
 
-<img src="../images/trash bin.PNG">
+<img src="/images/trash bin.PNG">
 
 ## Web App Features
 
 Upon registering or signing in to your account, you may submit data from a trash audit event. The information will then be sent to an administrator to await verification. Once the pending records are verified to be accurate, the data will then be sent to the dashboard. The dashboard was custom designed to present data that the Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. When logged in as an administrator, you are able to view the ‘Admin’ page. This page allows the user to view and accept incoming data, customize visualizations in the data, and view more in-depth statistics.
 
-<img src="../images/signin.png">
+<img src="/images/signin.png">
 
-<img src="../imagesadminpage.png">
+<img src="/images/adminpage.png">
 
-<img src="../images/addbags.png">
+<img src="/images/addbags.png">
 
 ## My Contribution
 
