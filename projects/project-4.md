@@ -52,7 +52,7 @@ In order to realize our solution, we are implementing a database in a series of 
 
 When you first visit the page, you will be greeted by our Landing Page!
 
-<img img class="ui image" src="/images/Landing Page.PNG">
+<img img class="ui image" src="/images/Landing page.PNG">
 
 After registering or signing in to your account, you may submit data from a trash audit event. When logged in as an administrator, you are able to view the ‘Admin’ page. This page allows the user to view and accept incoming data, customize visualizations in the data, and view more in-depth statistics.
 
