@@ -75,16 +75,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "name": "English",
-      "level": "Non-Native speaker"
-    },
-    {
-      "name": "Chinese"
-      "level": "Native speaker"
-    } 
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
