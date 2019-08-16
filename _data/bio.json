@@ -75,6 +75,16 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Non-Native speaker"
+    },
+    {
+      "name": "Chinese"
+      "level": "Native speaker"
+    } 
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -88,6 +98,18 @@
     }
   ],
   "work": [
+     {
+      "company": "UH Information Technology Services",
+      "position": "Student Java Web Developer",
+      "website": "https://www.hawaii.edu/its/",
+      "startDate": "2019-08-12",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Learned about using Java, Spring boot, Maven and Tomcat to develop websites",
+        "Working with other student developers"
+      ]
+    },
     {
       "company": "UH Manoa Starbucks",
       "position": "Barista",
@@ -96,7 +118,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Make cold drinks for costumers",
+        "Able to learn how to make new drinks quickly",
         "Have to keep clam during rush time"
       ]
     },
@@ -111,7 +133,7 @@
         "Translate book name from Chinese to Romanlization system",
         "Organizing the books"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
