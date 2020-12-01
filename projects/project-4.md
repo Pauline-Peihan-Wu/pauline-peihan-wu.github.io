@@ -58,8 +58,8 @@ After registering or signing in to your account, you may submit data from a tras
 
 Below are the pages of the app:
 
-<img src="/images/signin.png">
+<img img class="ui image" src="/images/signin.png">
 
-<img src="/images/adminpage.png">
+<img img class="ui image" src="/images/adminpage.png">
 
-<img src="/images/addbags.png">
+<img img class="ui image" src="/images/addbags.png">
