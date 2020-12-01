@@ -17,15 +17,28 @@ summary: A project for HACC 2020 that I created while taking ICS 491 class. My f
 
 Ku Ka'awale is a web application my group created for the HACC 2020. It was my first time develop a web application that involve mapping. 
 
-## Gather Links:
+## Ku Ka'awale Links:
 - [Functional Video](https://youtu.be/HfnLT0Au9QU)
 - [Devpost](https://devpost.com/software/ku-ka-awale)
 - [Github Page](https://github.com/HACC2020/StayAtHomeCoder)
 
 ## HACC 2020
 
-Hawaii Annual Code Challenge is a competition that is being hold every year in the fall. Many people in Hawaii will participate
+Hawaii Annual Code Challenge(HACC) is a competition that is being hold every year in the fall. Many people in Hawaii will participate. This competition has many different challenges where participants can choose one to compete for. There is no limit for team members. Each team has about three weeks from the kickoff day if the HACC to the due date to submit their project for one of the challenges. Below is a link the HACC 2020 website, it has more detail about it. 
 
+I participated once back in 2018. This year is my second time. The reason I competed this year is because first of all, I am taking ICS 491, which is a class particularly for this competition. In addition, I want to try to win the prize this time. 
+
+As the start of the competition approached, I started to ask for people to join my team. I first asked some of my friends. Then I asked other students who are also computer science major, like post the message in the ACM discord. Because as my second time participate, I know that it is important to have the team formed early and decide on which challenge to take fast. 
+
+Although I have experience about HACC, this time I still encountered some difficulty while working with my team. We spent two to three days to decide on which challenges to take. After decided to do the one dealing with UH Occupancy, we had our biggest difficulty -- choose which a software for mapping. It took us around two weeks to decide on the tool for mapping. It was hard because only one person in my team had experience with using mapping tool on web application. Then we had to search online and try out different tools we found. The tools we found include Google Map, ArcGIS, and etc. As the team captain, I was really worried when we spent too much time on finding the correct mapping tool because we have to get moving otherwise we may not be able finish the project on time. I had to keep pushing the team to go forward.
+
+My team decided to use the web application template that we used ICS 314 and then add some other functions from there. Sophia and I started with the mockup pages first. Since we already have the design of the mockup pages ready, that did not cost much time. But then we had another problem -- the code is not working. That is because Sophia deleted too many things from the template which caused the error. I then upload a new template and merged with the code we had to make it work. I also told my team members to always create new branch when edit/add anything to the code. 
+
+I think the most stressful part is the last week. As the due date is approaching, we started to implement the map and the data on the map. We realized that the mapping tool we decided to use it not working with the application. Then we had to change to another tool. That made me worried, I did not think we could finish implement that. But luckily, Patima found a better tool to use. After several hours of working and with three people working at the same time, we finally finished the mapping tool and entered all the data. 
+
+Overall, I think it was better than I expected. Although my team did not win any prize or get select to present on judge day, I still learned a lot. I learned how to implement mapping tools for web application. I also practiced my leadership skill by leading a team. I know I still need more practice, but I tried my best. If we could have all the plans down a little earlier, and get to work faster, then we would get place higher among other teams. In the future, if there will be similar competition like this, I think I will be sure to do better with the team.
+
+[HACC 2020](https://hacc.hawaii.gov/)
 
 ## Overview
 
