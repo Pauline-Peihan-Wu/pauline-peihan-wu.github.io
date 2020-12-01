@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ku_ka'awale
+image: images/ku_ka'awale.png
 title: Ku Ka'awale Heat Map Web Application
 permalink: projects/Ku Ka'awale
 # All dates must be YYYY-MM-DD format!
