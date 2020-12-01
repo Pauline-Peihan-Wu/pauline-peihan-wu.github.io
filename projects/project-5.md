@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/ku_ka'awale
 title: Ku Ka'awale Heat Map Web Application
 permalink: projects/Ku Ka'awale
 # All dates must be YYYY-MM-DD format!
@@ -54,11 +54,11 @@ Currenly, our application does not require user to create account or login. So o
 
 Below are the pages of the app:
 
-<img src="/images/user_homepage.png">
+<img img class="ui image" src="/images/user_homepage.png">
 
-<img src="/images/mapview.png">
+<img img class="ui image" src="/images/mapview.png">
 
-<img src="/images/historyview.png">
+<img img class="ui image" src="/images/historyview.png">
 
 ## Developers
 Here are the people on my team who worked on this project:
